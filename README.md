@@ -2,9 +2,7 @@
 
 
 
-#### :link:[TrendsAction](http://k3a408.p.ssafy.io/)
-
-# :runner: TrendsAction [트렌드를 파악하고 행동하라!]
+# :runner: TrendsAction [트렌드를 액션하라!]
 
 ## :page_facing_up: 프로젝트 개요
 ### 빅데이터와 AI를 활용한 현재 트렌드 정보 제공 및 미래 트렌드 예측 플랫폼
