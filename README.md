@@ -1,6 +1,7 @@
 ![TrendsActionLogo](images/TrendsActionLogo.jpg)
 
-# :person_frowning: 오빠 나 달라진거 없어? [서울 4반 8조] [2020.10.12 ~ 2020.11.17]
+
+
 #### :link:[TrendsAction](http://k3a408.p.ssafy.io/)
 
 # :runner: TrendsAction [트렌드를 파악하고 행동하라!]
@@ -75,49 +76,51 @@
 ## :information_desk_person: 기능
 
 ### [회원]
-#### 카카오 로그인
-#### 닉네임 중복 확인
-#### 프로필 사진 등록
-#### 회원 정보 조회
-#### 회원 정보 수정
-#### 회원 탈퇴
----
-
-#### [트렌드]
-#### 카테고리 목록 조회
-#### 카테고리 별 트렌드 목록 조회
-#### 트렌드 조회
-#### 트렌드 최신 뉴스 및 트위터 목록 조회
-#### 트렌드 댓글 입력, 수정, 삭제, 조회
-#### 년, 월, 주 필터링을 통한 예측 트렌드 조회
+ `카카오 로그인` , `닉네임 중복 확인` , `프로필 사진 등록` ,  `회원 정보 조회` , `회원 정보 수정` , `회원 탈퇴`
 
 ---
-#### [보드 관리]
-#### 보드 생성, 수정, 탈퇴, 조회
-#### 보드 목록 및 권한 조회
-#### 보드 배경 업로드
-#### 이메일로 회원 검색
-#### 보드원 초대, 조회, 권한 변경
-#### 보드 초대 수락
-#### 초대 알림 목록 조회
+
+### [트렌드]
+`카테고리 목록 조회` , `카테고리 별 트렌드 목록 조회` , `트렌드 조회` , `트렌드 최신 뉴스 및 트위터 목록 조회` , `트렌드 댓글 입력, 수정, 삭제, 조회` , `년, 월, 주 필터링을 통한 예측 트렌드 조회`
 
 ---
-#### [보드 컨텐츠]
-#### 뉴스 스크랩
-#### 트위터 스크랩
-#### 트렌드의 스크랩 많은 뉴스 및 트위터 조회, 삭제
-#### 뉴스 및 트위터 목록 조회
-#### 모든 컨텐츠 조회
-#### FAQ
+### [보드 관리]
+`보드 생성, 수정, 탈퇴, 조회` , `보드 목록 및 권한 조회` , `보드 배경 업로드` , `이메일로 회원 검색` , `보드원 초대, 조회, 권한 변경` , `보드 초대 수락` , `초대 알림 목록 조회`
+
+---
+### [보드 컨텐츠]
+`뉴스 스크랩` , `트위터 스크랩` , `트렌드의 스크랩 많은 뉴스 및 트위터 조회, 삭제` , `뉴스 및 트위터 목록 조회` , `모든 컨텐츠 조회`, `FAQ`
+
+
 
 ## :cow: 서비스 소개 :dog:
-#### :link:[Introduction Service](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/docs/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9C.md)
+* 메인페이지
+
+![1](images/1.JPG)
+
+
+
+* 트렌드  정보 제공
+
+![2](images/2.JPG)
+
+* 예측 트렌드 정보 제공
+
+![3](images/3.JPG)
+
+* 회원, 회원의 트렌드 보드
+
+![4](images/4.JPG)
+
+![5](images/5.JPG)
+
+![6](images/6.JPG)
 
 ## :clipboard: 프로젝트 사용법
-#### :link:[How To Use](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+#### :link:[How To Use](https://github.com/Jiyoon-park/TrendsAction/blob/master/docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
 ## :pencil: 개발 규칙
-#### :link:[Convention & Workflow](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/docs/%EC%9E%90%EC%9C%A8%ED%94%8C%EC%A0%9D%EC%BB%A8%EB%B2%A4%EC%85%98.md)
+#### :link:[Convention & Workflow](https://github.com/Jiyoon-park/TrendsAction/blob/master/docs/%EC%9E%90%EC%9C%A8%ED%94%8C%EC%A0%9D%EC%BB%A8%EB%B2%A4%EC%85%98.md)
 
 ## :family: 팀소개
 > #### 팀장 : 김동휘 (Back End, Data Analysis, UCC)
