@@ -1,4 +1,4 @@
-![TrendsActionLogo](/uploads/b8f3451437c232d1b1c9d32fa385cf3d/TrendsActionLogo.jpg)
+![TrendsActionLogo](images/TrendsActionLogo.jpg)
 
 # :person_frowning: 오빠 나 달라진거 없어? [서울 4반 8조] [2020.10.12 ~ 2020.11.17]
 #### :link:[TrendsAction](http://k3a408.p.ssafy.io/)
@@ -20,7 +20,15 @@
 #### 데이터 수집과 분석을 자동화하여 주기적으로 객관적인 정보를 제공
 
 ## :globe_with_meridians: 시스템 구조
-![아키텍처](/uploads/247bbfe57b2c7418d79dcc1ebfe498cb/아키텍처.png)
+![아키텍처](images/아키텍처.png)
+
+
+
+## :globe_with_meridians: ERD
+
+![ERD물리](images/ERD물리.JPG)
+
+
 
 ## :computer: 기술 스택
 ![badge](https://img.shields.io/badge/Framework-Vue-4FC08D?logo=Vue.js)
@@ -118,5 +126,4 @@
 > #### 팀원 : 박지윤 (Front End, Infra, Presentation)
 > #### 팀원 : 최재빈 (Back End, Infra, Documentation)
 
-## :dvd: License
-#### :link:[MIT License 2.0](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/LICENSE.txt)
+#### 
